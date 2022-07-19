@@ -9,7 +9,7 @@ To start using the application you can either clone the repository and launch th
 ---
 ## Preview-Image
 
-<img src="/webclk1.png" alt="webclock image" height="600" width="400"/> <span>_____</span> <img src="/webclk2.png" alt="webclock image" height="600" width="400"/>
+<img src="/webclk1.png" alt="webclock image" height="600" width="400"/> <span>__</span> <img src="/webclk2.png" alt="webclock image" height="600" width="400"/>
 
 ---
 ## Description
